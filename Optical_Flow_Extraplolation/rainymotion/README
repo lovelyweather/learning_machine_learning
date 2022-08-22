@@ -1,0 +1,6 @@
+Small modifications of the rainymotion library:
+
+  1. the scaler function in utils for reflectivity;
+  2. function name of the new-version opencv has been changed.
+  
+For more details of the optical flow extrapolation, please refer to https://github.com/hydrogo/rainymotion.
