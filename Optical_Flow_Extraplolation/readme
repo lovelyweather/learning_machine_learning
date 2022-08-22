@@ -1,1 +1,3 @@
- extrapolation of  Chinese mosaic reflectivity pictures from CMA with the optical flow algorithm
+ Extrapolation of  Chinese mosaic reflectivity pictures from CMA with the optical flow algorithm.
+ 
+ Can serve as a benchmark for other state-of-art machine learning based algorithms. 
