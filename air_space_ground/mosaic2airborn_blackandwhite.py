@@ -19,12 +19,6 @@ import math
 #from pyart.core import cartesian_to_geographic
 import copy
 
-
-
-
-
-imgfile = 'Z_RADA_C_BABJ_20220818120000_P_DOR_RDCP_R_ACHN.PNG'
-
 #constant
 R_earth = 6371.393
 
